@@ -11,6 +11,6 @@ book_insert.py handles only operations with Mysql database.
 
 instructions.py contains only a dictionary with instructions that book_insert.py may use.
 
-crawl_lib.py handles only operations with web crawling. The target is [do](https://book.douban.com/).
+crawl_lib.py handles only operations with web crawling. The target is [https://book.douban.com/](https://book.douban.com/).
 
 main.py is the only one needs to run.
